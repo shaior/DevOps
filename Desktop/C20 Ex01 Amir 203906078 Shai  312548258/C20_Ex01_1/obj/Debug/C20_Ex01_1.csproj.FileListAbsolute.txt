@@ -1,0 +1,7 @@
+C:\Users\amirb\source\repos\C20 Ex01 Amir 203906078 Shai  312548258\C20_Ex01_1\bin\Debug\C20_Ex01_1.exe.config
+C:\Users\amirb\source\repos\C20 Ex01 Amir 203906078 Shai  312548258\C20_Ex01_1\bin\Debug\C20_Ex01_1.exe
+C:\Users\amirb\source\repos\C20 Ex01 Amir 203906078 Shai  312548258\C20_Ex01_1\bin\Debug\C20_Ex01_1.pdb
+C:\Users\amirb\source\repos\C20 Ex01 Amir 203906078 Shai  312548258\C20_Ex01_1\obj\Debug\C20_Ex01_1.csprojAssemblyReference.cache
+C:\Users\amirb\source\repos\C20 Ex01 Amir 203906078 Shai  312548258\C20_Ex01_1\obj\Debug\C20_Ex01_1.csproj.CoreCompileInputs.cache
+C:\Users\amirb\source\repos\C20 Ex01 Amir 203906078 Shai  312548258\C20_Ex01_1\obj\Debug\C20_Ex01_1.exe
+C:\Users\amirb\source\repos\C20 Ex01 Amir 203906078 Shai  312548258\C20_Ex01_1\obj\Debug\C20_Ex01_1.pdb
